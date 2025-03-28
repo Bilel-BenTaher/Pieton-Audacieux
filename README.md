@@ -1,6 +1,6 @@
 # Cross The Road
 
-![Aperçu du jeu Pendu](images/iamge1.png)
+![Aperçu du Cross-The-Road-Game](images/iamge1.png)
 ![Deuxième aperçu](images/iamge2.png)
 ![Troisième aperçu](images/iamge3.png)
 ![Quatrième aperçu](images/iamge4.png)
