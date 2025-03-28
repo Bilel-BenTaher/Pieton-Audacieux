@@ -1,10 +1,11 @@
 # Cross The Road
 
+## Description
+"Cross The Road" est un jeu en console inspiré de Frogger, où le joueur doit traverser une route en évitant les voitures. Le jeu est écrit en C++ et utilise la bibliothèque Windows Console API pour la gestion des couleurs et des entrées.
+
 ![Aperçu du Cross-The-Road-Game](images/image1.png)
 ![Deuxième aperçu](images/image2.png)
 ![Troisième aperçu](images/image3.png)
-## Description
-"Cross The Road" est un jeu en console inspiré de Frogger, où le joueur doit traverser une route en évitant les voitures. Le jeu est écrit en C++ et utilise la bibliothèque Windows Console API pour la gestion des couleurs et des entrées.
 
 ## Fonctionnalités
 - **Déplacement du joueur** avec les touches `Z` (haut), `Q` (gauche), `S` (bas) et `D` (droite).
@@ -49,11 +50,5 @@
 - `cGame` : Contient la logique du jeu, y compris l'affichage et la gestion des entrées.
 - `main` : Initialise le jeu et lance la boucle principale.
 
-## Améliorations Possibles
-- Ajout de nouveaux obstacles.
-- Meilleure gestion de la difficulté avec des niveaux plus dynamiques.
-- Portage vers d'autres plateformes (Linux, MacOS).
-- Interface graphique avec SDL ou SFML.
-
 ## Auteur
-- Développé par [Votre Nom]
+- Développé par Bilel BEN TAHER
