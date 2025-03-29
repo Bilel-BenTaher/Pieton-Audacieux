@@ -23,13 +23,13 @@
 
 ### Compilation
 1. Ouvrez un terminal ou une invite de commande.
-2. Compilez le programme avec g++ (si vous utilisez MinGW) :
+2. Compilation sous Windows (MinGW) :
    ```sh
-   g++ -o CrossTheRoad.exe CrossTheRoad.cpp -static-libgcc -static-libstdc++
+   g++ Src/main.cpp Src/game.cpp Src/lane.cpp Src/player.cpp -I Inc -o game.exe
    ```
-3. Exécutez le programme :
+3. Exécution :
    ```sh
-   CrossTheRoad.exe
+    game.exe
    ```
 
 ## Commandes du Jeu
