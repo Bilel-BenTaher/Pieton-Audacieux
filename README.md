@@ -1,7 +1,7 @@
-# Cross The Road
+# Pieton-Audacieux
 
 ## Description
-"Cross The Road" est un jeu en console inspiré de Frogger, où le joueur doit traverser une route en évitant les voitures. Le jeu est écrit en C++ et utilise la bibliothèque Windows Console API pour la gestion des couleurs et des entrées.
+"Pieton-Audacieux" est un jeu en console inspiré de Frogger, où le joueur doit traverser une route en évitant les voitures. Le jeu est écrit en C++ et utilise la bibliothèque Windows Console API pour la gestion des couleurs et des entrées.
 
 ![Aperçu du Cross-The-Road-Game](images/image1.png)
 ![Deuxième aperçu](images/image2.png)
